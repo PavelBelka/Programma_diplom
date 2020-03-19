@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b63814b-4a1b-4e9c-b5af-0fc19e1f76d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YTBbYI1tZXUkIRvz4QukBXaGOc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b63814b-4a1b-4e9c-b5af-0fc19e1f76d1" name="Default Changelist" comment="" />
+      <created>1582956775833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582956775833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1584638063787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1584638063787" />
+    <state width="656" height="466" key="DebuggerActiveHint" timestamp="1583852596039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="656" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583852596039" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584641706791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584641706791" />
+    <state x="830" y="413" key="Github.ShareDialog" timestamp="1584641473155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584641473155" />
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1584641175895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/-1280.-113.1280.1024@0.0.1366.768" timestamp="1583911504628" />
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584641175895" />
+    <state width="1899" height="261" key="GridCell.Tab.0.center" timestamp="1584641175894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768/-1280.-113.1280.1024@0.0.1366.768" timestamp="1583911504627" />
+    <state width="1899" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584641175894" />
+    <state width="1899" height="261" key="GridCell.Tab.0.left" timestamp="1584641175894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768/-1280.-113.1280.1024@0.0.1366.768" timestamp="1583911504627" />
+    <state width="1899" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584641175894" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right" timestamp="1584641175894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768/-1280.-113.1280.1024@0.0.1366.768" timestamp="1583911504628" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584641175894" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1584198339694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584198339694" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1584198339694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584198339694" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1584198339694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584198339694" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1584198339694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584198339694" />
+    <state x="259" y="37" key="SettingsEditor" timestamp="1584641483066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768/-1280.-113.1280.1024@0.0.1366.768" timestamp="1583910320530" />
+    <state x="259" y="37" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584641483066" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584016818621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584016818621" />
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583423388916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1583423388916" />
+  </component>
+</project>
